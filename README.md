@@ -14,5 +14,6 @@ Where
  
 # Problems: 
 a) Generate a figure of the original grid (random weights) followed by figures of the SOM after 20, 40, 100, 1000 epochs. Change the value of 𝜎% = 1, 10, 30, 50, 70.
+
 b) Draw your conclusions on how the output changes with 𝜎% and the number of epochs.
 Note: Basically, we need to have as the output of the SOM colors similar to: http://www.cs.hmc.edu/~kpang/nn/som.html (under “Demonstration”).
